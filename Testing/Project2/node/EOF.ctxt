@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EOF()
+comment1.params=line\ pos
+comment1.target=EOF(int,\ int)
+comment2.params=
+comment2.target=java.lang.Object\ clone()
+comment3.params=sw
+comment3.target=void\ apply(Switch)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TExcl()
+comment1.params=line\ pos
+comment1.target=TExcl(int,\ int)
+comment2.params=
+comment2.target=java.lang.Object\ clone()
+comment3.params=sw
+comment3.target=void\ apply(Switch)
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+numComments=5
